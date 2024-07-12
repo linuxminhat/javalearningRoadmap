@@ -1,0 +1,9 @@
+package chuong3;
+
+public class b90 {
+	/*
+	 * 1+2+3+4+5+...+m<n-> finding the max m
+	 */
+	public static int n;
+
+}

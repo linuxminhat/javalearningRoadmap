@@ -1,0 +1,15 @@
+package arrays_hashing;
+
+public class leetcode1662 {
+	public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+		String word1_output ="";
+		String word2_output =""
+			for(String element:word1) {
+				
+			}
+		
+        
+		return false;
+	}
+
+}

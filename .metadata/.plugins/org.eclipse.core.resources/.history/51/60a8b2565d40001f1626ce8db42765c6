@@ -1,0 +1,6 @@
+package recursion;
+
+public class printingArrayElement {
+	public static void printingElement(int[] array, int index)
+
+}

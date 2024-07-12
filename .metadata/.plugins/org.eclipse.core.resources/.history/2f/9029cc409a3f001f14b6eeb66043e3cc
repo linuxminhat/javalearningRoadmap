@@ -1,0 +1,9 @@
+package arrays_hashing;
+
+public class leetcode387_ownthinking {
+	public int firstUniqChar(String s) {
+	        
+	    }
+	
+
+}

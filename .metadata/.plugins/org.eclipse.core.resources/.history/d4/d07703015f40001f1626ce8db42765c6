@@ -1,0 +1,25 @@
+package recursion;
+
+public class toiuuhoaDeQuy {
+	//Toi uu hoa de quy bang cach loai cac phan tu trung lap voi nhau
+	//Cu the chung ta se vi du bang bai toan day Fibonacci 
+	//Su dung de quy co nho 
+	public static int fibonacci1(int number) {
+		if(number<0) {
+			return -1;
+		}
+		if(number<=2) {
+			return 1;
+		}
+		return fibonacci1(number-1) +  fibonacci1(number-2);
+	}
+	int[] fnumber = new int[1000];
+	public static int fibonacci2(int[] fnumber) {
+		if(fnumber[]!=0) {
+	}
+	public static void main(String[] args) {
+		fibonacci1(4);
+	}
+	
+
+}

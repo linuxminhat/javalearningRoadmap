@@ -1,0 +1,6 @@
+package chuong5;
+
+public class b126 {
+	public static int[] array= {-3,23,12,-3432,121,2345,231};
+
+}

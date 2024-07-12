@@ -1,0 +1,25 @@
+package chuong1;
+
+public class b30 {
+	public static int number;
+	public static int checkPerfectNumber(int number) {
+		int sum=0;
+		for(int numb=1;numb<number;numb++) {
+			if(number%numb==0) {
+				sum+=numb;
+				if(sum==number) {
+					break;
+					System.out.println(sum+"is perfect numb");
+					return sum;
+					 
+				}
+			}
+		}
+	 return -1;
+	}
+	public static void main(String[] args) {
+		System.out.println(checkPerfectNumber(100)); 
+		
+	}
+
+}

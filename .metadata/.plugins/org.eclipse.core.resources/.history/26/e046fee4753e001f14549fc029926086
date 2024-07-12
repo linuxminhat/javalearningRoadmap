@@ -1,0 +1,22 @@
+package arrayAndString;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class nhapxuat {
+	static Scanner scanInput = new Scanner(System.in);
+	static int row ;
+	static int col ;
+	public static void main(String[] args) {
+		System.out.println("Nhap vao phan tu cua mang : ");
+		System.out.println("Nhap vao so luong phan tu hang : ");
+		row=scanInput.nextInt();
+		System.out.println("Nhap vao so luong phan tu cot : ");
+		col=scanInput.nextInt();
+		int[][]array = new int array[row][col];
+		System.out.println(Arrays.deepToString(array));
+		
+		
+	}
+
+}

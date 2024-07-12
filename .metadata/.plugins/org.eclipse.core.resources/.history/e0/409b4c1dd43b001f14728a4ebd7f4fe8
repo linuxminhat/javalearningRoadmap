@@ -1,0 +1,8 @@
+package overriding;
+
+class Vehicle{
+	
+}
+public class overridingExample {
+
+}

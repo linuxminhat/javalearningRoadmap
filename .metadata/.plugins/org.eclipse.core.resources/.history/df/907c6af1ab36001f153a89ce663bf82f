@@ -1,0 +1,13 @@
+package exercise;
+
+public class stringArray {
+	public static String[] daysofWeek = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
+	public String findmostnumber(String[] dayofweek) {
+		this.daysofWeek = dayofweek;
+	}
+	public static void main(String[] args) {
+		 
+		
+	}
+
+}

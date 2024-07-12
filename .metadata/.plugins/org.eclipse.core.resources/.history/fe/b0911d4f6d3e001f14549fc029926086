@@ -1,0 +1,16 @@
+package chuong5;
+
+public class b127 {
+	//Sắp xếp mảng 1 chiều theo thứ tự tăng dần 
+	public static int[] array= {21, 334,21,221,3,2234,112,100};
+	public static int[] sortingAnArray(int[] array) {
+		int temp_maxValu=array[0];
+		int temp_maxIndex=0;
+		for(int i=0;i<array.length;i++) {
+			if(array[i]>array[0]) {
+				
+			}
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+class Animal{
+	public Animal() {
+		System.out.println("Running");
+	}
+}
+class Pet extends Animal() {
+	public Pet() {
+		System.out.println("Running");
+	}
+}
+public class mulInheritance {
+
+}

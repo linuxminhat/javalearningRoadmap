@@ -1,0 +1,8 @@
+package objectComposition_updateExercise;
+
+public class square {
+	public int length;
+	public int width;
+	
+
+}

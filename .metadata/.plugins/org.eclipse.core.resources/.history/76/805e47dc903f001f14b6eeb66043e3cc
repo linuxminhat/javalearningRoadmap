@@ -1,0 +1,14 @@
+package arrays_hashing;
+
+public class reviewString {
+	public static void main(String[] args) {
+		String s1 = new String ("Dang Nhat Minh");
+		String s2 = new String ("DangNhatMinh");
+		for(int i=0;i<s1.length();i++) {
+			if(Character.isUpperCase(s1.charAt(i))==true) {
+				System.out.println(s1.charAt(i));
+			}
+		}
+	}
+
+}

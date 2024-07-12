@@ -1,0 +1,7 @@
+package studentClassArrayList;
+
+public class student {
+	ArrayList<Integer> mark = new ArrayList<Integer>();
+	
+
+}

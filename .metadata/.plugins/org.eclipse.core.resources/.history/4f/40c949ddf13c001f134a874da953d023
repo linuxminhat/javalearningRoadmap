@@ -1,0 +1,13 @@
+package chuong1;
+
+public class b1 {
+	//1 -> n 
+	public static int n;
+	public void calSum(int n ) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

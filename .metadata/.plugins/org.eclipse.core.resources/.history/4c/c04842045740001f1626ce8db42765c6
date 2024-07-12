@@ -1,0 +1,13 @@
+package recursion;
+
+public class printArrayElement {
+	static int i;
+	public static void printinting(int[] array) {
+		if(i==0) {
+			System.out.println(array[i]);
+			return;
+		}
+		printinting
+	}
+
+}

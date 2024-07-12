@@ -1,0 +1,9 @@
+package complexAlgorithms.interfaces;
+
+public class Project {
+	public static void main(String[] args) {
+		complexAlgo newAlgo = new complexAlgo();
+		newAlgo.complexAlgo(10, 20);
+	}
+
+}

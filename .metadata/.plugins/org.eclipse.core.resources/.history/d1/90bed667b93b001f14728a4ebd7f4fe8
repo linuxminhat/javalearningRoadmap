@@ -1,0 +1,10 @@
+package obJectComposition_main;
+
+public class customerRunner {
+	public static void main(String[] args) {
+//		public customer(String name,Address homeaddress) {
+		customer testcase = new customer("Dang Nhat Minh", "35 Dang Dung");
+		
+	}
+
+}

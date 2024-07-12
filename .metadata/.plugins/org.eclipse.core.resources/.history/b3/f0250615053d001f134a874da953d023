@@ -1,0 +1,17 @@
+package chuong1;
+
+public class b49 {
+	public static int number;
+	public static int countingFirstNumber(int number) {
+		int firstNumb;
+		while(number>0) {
+			int digits=number%10;
+			number/=10;
+			firstNumb=digits;
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

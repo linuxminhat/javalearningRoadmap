@@ -1,0 +1,11 @@
+package recursion;
+
+public class printArrayElement {
+	public static void (int[] array) {
+		if(i==0) {
+			System.out.println(array[i]);
+			return;
+		}
+	}
+
+}

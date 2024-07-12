@@ -1,0 +1,10 @@
+package sortElementsOfArray;
+
+public class sorting {
+	static int[] array = { 100,2,424,13,53,122,0,4};
+	//want to sort : shortest -> biggest 
+	public int[] sortingArray(int[] array) {
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package objectComposition;
+
+public class fan {
+	//declare all the state 
+	private String name;
+	private int number;
+	private String color;
+	private String maker;
+}

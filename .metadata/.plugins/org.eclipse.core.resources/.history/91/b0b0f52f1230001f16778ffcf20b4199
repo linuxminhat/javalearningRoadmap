@@ -1,0 +1,18 @@
+package loops_finalexercise;
+
+public class LCM_testDivisorsOfNumber {
+	public static int findingLCM(int number1) {
+		//number1 = 6
+			int divisors = 1;
+			for(int i=1;i<=number1;i++) { 
+				for(divisors = 1;divisors<=i;divisors++) {
+					divisors = number1%i;  	
+				}				
+			}
+			return divisors;
+	}
+	public static void main(String[] args) {
+		System.out.println(findingLCM(6)); 
+	}
+
+}

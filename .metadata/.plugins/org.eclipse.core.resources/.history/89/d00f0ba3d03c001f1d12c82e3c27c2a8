@@ -1,0 +1,14 @@
+package playWithList;
+
+import java.util.List;
+import java.util.Vector;
+
+public class playList_three_vectortesting {
+	public static void main(String[] args) {
+		List<String> beforemyWord = new Vector<>(List.of("My","Kind","Of","Woman"));
+		System.out.println(beforemyWord);
+		List<String> aftermyWord = new Vector<>(List.of(beforemyWord));
+		
+	}
+
+}

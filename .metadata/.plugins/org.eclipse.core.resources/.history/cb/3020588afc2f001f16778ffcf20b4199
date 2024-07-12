@@ -1,0 +1,9 @@
+package loops_finalexercise;
+
+public class test {
+ 
+	public static void main(String[] args) {
+		int i=4562;
+		System.out.println(i/10);
+	}
+}

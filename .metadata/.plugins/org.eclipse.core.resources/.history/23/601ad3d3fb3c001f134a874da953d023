@@ -1,0 +1,20 @@
+package chuong1;
+
+public class b29 {
+	public static int number;
+	public static int maxDivisors(int number) {
+		int maxNumb = Integer.MAX_VALUE;
+		for(int numb : number) {
+			if(number%numb==0) {
+				if(numb>maxNumb) {
+					maxNumb=numb;
+				}
+			}
+			
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

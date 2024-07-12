@@ -1,0 +1,11 @@
+package downcasting;
+class Vehicle {
+//	public void run();
+	public void run() {
+		System.out.println("Vehicle is running ");
+	}
+	
+}
+public class trueDowncasting {
+
+}

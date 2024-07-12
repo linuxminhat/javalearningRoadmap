@@ -1,0 +1,10 @@
+package studentClassArrayList;
+
+import java.util.ArrayList;
+
+public class student {
+	ArrayList<Integer> mark = new ArrayList<Integer>();
+	mark.add(1199);
+	
+
+}

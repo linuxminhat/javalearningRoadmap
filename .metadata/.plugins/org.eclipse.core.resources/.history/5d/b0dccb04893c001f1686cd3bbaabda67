@@ -1,0 +1,6 @@
+package complexAlgorithms.interfaces;
+
+public interface complexAlgo {
+	
+
+}

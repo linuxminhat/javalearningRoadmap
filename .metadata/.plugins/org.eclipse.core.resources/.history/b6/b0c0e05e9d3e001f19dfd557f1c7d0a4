@@ -1,0 +1,19 @@
+package arrays_hashing;
+
+public class leetcode27_truecase {
+	public int removeElement(int[] nums, int val) {
+		//Bản chất của mảng là immutable nên chúng ta không thể xoá được, ta chỉ có thể dồn nó mà thôi 
+		int number_elements = nums.length;
+		for(int i=0;i<number_elements;i++) {
+			if(nums[i]==val) {
+				for(int k=i;k<=nums.length-2;) {
+					nums[k]=nums[k+1];
+				}
+			}
+		}
+		return 0;
+    }
+	
+	
+
+}

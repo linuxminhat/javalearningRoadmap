@@ -1,0 +1,10 @@
+package loops_finalexercise;
+
+public class getLastDigit_solution {
+	public int getLastDigit(int number) {
+		if(number<0) {
+			return -1;
+		}
+	}
+
+}

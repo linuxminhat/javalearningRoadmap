@@ -1,0 +1,20 @@
+package stringClass;
+
+public class stringClass {
+	//Declare String 
+//	String str1 = new String("concac");
+//	String str2 = new String("concac");
+	//Compare them 
+	public static void main(String[] args) {
+		String str1 = new String("concac");
+		String str2 = new String("concac");
+		//its false because its is located in heap 
+		System.out.println(str1 == str2);
+		//Some available function to use 
+		System.out.println(str1.charAt(0));
+		for(int index=0;index<=5;index++) {
+			System.out.print(index);
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+package overriding;
+
+public class overridinglearnign {
+	class Vehicle() {
+		void run() {
+			System.out.println("Vehicle is  Running");
+		}
+	}
+
+}

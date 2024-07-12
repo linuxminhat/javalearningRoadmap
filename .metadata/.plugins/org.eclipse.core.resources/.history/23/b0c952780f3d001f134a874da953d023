@@ -1,0 +1,20 @@
+package chuong1;
+
+public class b60 {
+	//Hãy kiểm tra các chữ số của số nguyên dương n có tăng dần từ trái sang phải hay không
+	public static int number;
+	public static boolean checkingGreater(int number) {
+		if(number<=9) {
+			return true;
+		}
+		if(number<=99) {
+			while(number>0) {
+				int digit=number%10;
+			}
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

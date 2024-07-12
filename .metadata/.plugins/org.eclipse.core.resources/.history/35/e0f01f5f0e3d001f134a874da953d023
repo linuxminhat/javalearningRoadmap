@@ -1,0 +1,13 @@
+package chuong1;
+
+public class bai56 {
+	//kiem tra so nguyen n co toan so le hay khong 
+	public static int number;
+	public static boolean checkingNumberAllEven(int number) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package chuong1;
+
+public class b43 {
+	//Đếm số lượng chữ số của số n
+	public static int number;
+	public static int countingNumber(int number) {
+		//173 
+		//173%10=
+		int surplus = number%10;
+		int temp = number-surplus;
+		for(temp;surplus>)
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

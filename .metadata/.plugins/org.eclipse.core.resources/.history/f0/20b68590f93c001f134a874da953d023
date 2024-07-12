@@ -1,0 +1,20 @@
+package chuong1;
+
+import java.util.ArrayList;
+
+public class b20 {
+	static ArrayList<E> divisorsArray = new ArrayList();
+	//liet ke tat ca cac uoc so 
+	public static int number;
+	public static int[] nameDivisors(int number) {
+		for(int numb:number) {
+			if(number%numb==0) {
+				divisorsArray.add(numb);
+			}
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

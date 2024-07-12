@@ -1,0 +1,9 @@
+package exercise;
+
+public class stringArray {
+	public static void main(String[] args) {
+		String[] daysofWeek = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
+		
+	}
+
+}

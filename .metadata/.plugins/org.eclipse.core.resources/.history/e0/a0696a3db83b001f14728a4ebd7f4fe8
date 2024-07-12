@@ -1,0 +1,9 @@
+package obJectComposition_main;
+
+public class customer {
+	public String name;
+	public int age;
+	public Address address;
+	public Address homeaddress;
+
+}

@@ -1,0 +1,16 @@
+package arrays_hashing;
+
+public class leetcode1972 {
+	//accounts[i][j] : the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank.
+	/*
+	 * [1 2 3 ] => i=2
+	 * [3 2 1 ] => j=3
+	 */
+	int row;
+	public int maximumWealth(int[][] accounts) {
+		//assumes : accounts[i][j]
+		for(int elements : )
+        
+    }
+
+}

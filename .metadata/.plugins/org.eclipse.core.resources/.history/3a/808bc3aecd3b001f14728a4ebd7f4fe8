@@ -1,0 +1,9 @@
+package Inheritance;
+
+public class StudentRunner {
+	public static void main(String[] args) {
+//			public Student(String uniName, String majorName,int GPA) {
+		Student student1 = new Student("DUT","CS",(double)4);
+		
+	}
+}

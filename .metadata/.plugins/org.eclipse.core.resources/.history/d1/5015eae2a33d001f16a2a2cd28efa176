@@ -1,0 +1,9 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b115 {
+	Scanner MathInput = new Scanner(System.in);
+	sc
+
+}

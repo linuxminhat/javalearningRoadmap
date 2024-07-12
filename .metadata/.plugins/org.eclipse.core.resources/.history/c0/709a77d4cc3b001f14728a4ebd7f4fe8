@@ -1,0 +1,9 @@
+package Inheritance;
+
+public class Address {
+	public String streetName;
+	public String districtName;
+	public String countryName;
+	public boolean capitalorNot;
+
+}

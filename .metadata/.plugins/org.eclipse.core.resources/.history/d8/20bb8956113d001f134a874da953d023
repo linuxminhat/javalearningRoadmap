@@ -1,0 +1,16 @@
+package chuong1;
+
+public class b60_myself {
+	//Kiểm tra tính tăng dần của một số thì chỉ cần so sánh 2 cặp số liên tiếp 
+	public static int number;
+	public static int checkingGreater(int number) {
+		String numberString = Integer.toString(number);
+		while(number>0) {
+			
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

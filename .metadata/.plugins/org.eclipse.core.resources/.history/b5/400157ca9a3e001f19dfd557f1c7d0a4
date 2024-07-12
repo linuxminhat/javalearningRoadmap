@@ -1,0 +1,12 @@
+package arrays_hashing;
+
+public class leetcode27_updating {
+	//remove element
+	//step1 : for each to find element
+	//step2 : remove 
+	public int removeElement(int[] nums, int val) {
+        
+    }
+	
+
+}

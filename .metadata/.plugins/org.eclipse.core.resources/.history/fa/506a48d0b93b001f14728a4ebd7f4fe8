@@ -1,0 +1,12 @@
+package obJectComposition_main;
+
+public class customerRunner {
+	public static void main(String[] args) {
+//		public customer(String name,Address homeaddress) {
+//		public Address(int zipcode, String StreetName,String DistrictName,String CityName) {
+		Address homeaddress = new Address(5000,"Dang Dung","Lien Chieu","Da Nang");
+		customer testcase = new customer("Dang Nhat Minh", homeaddress);
+		
+	}
+
+}

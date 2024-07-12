@@ -1,0 +1,13 @@
+package obJectComposition_main;
+
+public class customer {
+	public String name;
+	public int age;
+	public Address workaddress;
+	public Address homeaddress;
+	//declare a constructor 
+	public customer(String name,Address homeaddress) {
+		this.name=name;
+		this.homeaddress=homeaddress;
+	}
+}

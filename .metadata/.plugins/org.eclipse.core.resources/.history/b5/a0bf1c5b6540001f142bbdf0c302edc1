@@ -1,0 +1,17 @@
+package recursion;
+
+public class methodImplementRecursion {
+	private static int currentMax = -1;
+	public static void findMax1(int[] array,int i ) {
+		if(i<array.length) {
+			if(array[i]>currentMax) {
+				currentMax=array[i];
+			}
+		}
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

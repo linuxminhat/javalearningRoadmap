@@ -1,0 +1,6 @@
+package chuong4;
+
+public class b115_review {
+	Scanner markInput = new Scanner(System.in);
+
+}

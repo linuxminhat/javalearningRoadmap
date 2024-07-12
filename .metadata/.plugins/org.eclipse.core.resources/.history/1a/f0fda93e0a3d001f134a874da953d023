@@ -1,0 +1,14 @@
+package chuong1;
+
+public class bai53 {
+	public static int number;
+	public static int findingNumbExistMax(int number) {
+		if(number<9) {
+			return number;
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

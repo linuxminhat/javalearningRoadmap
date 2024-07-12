@@ -1,0 +1,12 @@
+package arrays_hashing;
+
+public class leetcode88_review {
+	public void merge(int[] nums1, int m, int[] nums2, int n) {
+		for(int i:nums2) {
+			chen(i,nums1,m);
+		}
+		 
+    }
+	 
+
+}

@@ -1,0 +1,14 @@
+package obJectComposition_main;
+
+public class Address {
+	public int zipcode;
+	public String StreetName;
+	public String DistrictName;
+	public String CityName;
+	public boolean capitalorNot;
+	public Address(int zipcode, String StreetName,String DistrictName,String CityName) {
+		
+	}
+	
+
+}

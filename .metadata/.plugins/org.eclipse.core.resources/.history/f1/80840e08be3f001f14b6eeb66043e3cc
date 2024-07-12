@@ -1,0 +1,8 @@
+package sorting;
+
+public class bubbleSort_revieww {
+	//declare an array 
+	public static int[] array = {100,99,23,28,5,9,23,42};
+	
+
+}

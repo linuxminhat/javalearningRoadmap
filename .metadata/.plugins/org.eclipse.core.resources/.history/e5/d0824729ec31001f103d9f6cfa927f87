@@ -1,0 +1,14 @@
+package stringClass;
+
+public class stringClass {
+	//Declare String 
+//	String str1 = new String("concac");
+//	String str2 = new String("concac");
+	//Compare them 
+	public static void main(String[] args) {
+		String str1 = new String("concac");
+		String str2 = new String("concac");
+		System.out.println(str1 == str2);
+	}
+
+}

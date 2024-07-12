@@ -1,0 +1,11 @@
+package exercise.abstractClass;
+
+public class AnimalRunner {
+	public static void main(String[] args) {
+		Animal case = new Dog();
+		for(Animal case : Dog) {
+		case.bark();
+		}
+	}
+
+}

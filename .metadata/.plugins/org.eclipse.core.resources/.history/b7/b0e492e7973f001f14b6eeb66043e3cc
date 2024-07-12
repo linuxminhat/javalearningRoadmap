@@ -1,0 +1,9 @@
+package arrays_hashing;
+
+public class leetcode387 {
+	public int firstUniqChar(String s) {
+		char[] array = s.toCharArray();
+		return -1;
+	}
+
+}

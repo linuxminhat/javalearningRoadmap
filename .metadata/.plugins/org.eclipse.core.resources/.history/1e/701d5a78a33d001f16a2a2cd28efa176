@@ -1,0 +1,6 @@
+package chuong4;
+
+public class b115 {
+	Scanner scanInput = new Scanner();
+
+}

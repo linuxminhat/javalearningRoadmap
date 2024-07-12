@@ -1,0 +1,23 @@
+package arrays_hashing;
+
+import java.util.Arrays;
+
+public class leetcode1929 {
+	public static int[] nums = {1,2,1};
+	// 0 1 2 3 4 5 
+	    public static int[] getConcatenation(int[] nums) {
+	        int[] newArray= new int[nums.length*2];
+	        for(int i=0;i<nums.length;i++) {
+	        	newArray[i]=nums[i];
+	        	for(int j=0;j<newArray.length;j++) {
+	        		newArray[j]=newArray[i];
+	        		newArray[j]=newArray[newArray.length-j-1];
+	        	}
+	        }
+	        return newArray;
+	    }
+	    public static void main(String[] args) {
+	    	System.out.println(Arrays.toString(getConcatenation(nums)));
+			
+		}
+}

@@ -1,0 +1,11 @@
+package recursion;
+
+public class memorized_recursion {
+	public static int fibonacci2(int number) {
+		int[] F = new int[1000];
+		if(F[number]!=0) {
+			return number;
+		}
+	}
+
+}

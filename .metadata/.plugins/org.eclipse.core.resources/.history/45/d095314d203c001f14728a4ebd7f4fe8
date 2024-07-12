@@ -1,0 +1,8 @@
+class Animal{
+	public AnimalRunning() {
+		System.out.println("Running");
+	}
+}
+public class mulInheritance {
+
+}

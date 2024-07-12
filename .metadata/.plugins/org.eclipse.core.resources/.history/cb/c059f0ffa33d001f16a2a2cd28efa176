@@ -1,0 +1,12 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b115 {
+	public static void main(String[] args) {
+		System.out.println("Nhập vào điểm môn toán");
+		Scanner mathInput = new Scanner(System.in);
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package recursion;
+
+public class implementingFactorialFunction {
+	public static int factorialFunction(int number) {
+		if(number==0) {P
+			return 1;
+		}
+		if(number!=0) {
+			
+		}
+		return 0;
+	}
+
+}

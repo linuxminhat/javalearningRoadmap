@@ -1,0 +1,12 @@
+package chuong3;
+
+public class b92 {
+	public static int numb1,numb2;
+	public static int findingMaxDivisors(int numb1,int numb2) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package chuong5;
+
+public class b125 {
+	//Hàm đếm số lượng số nguyên tố nhỏ hơn 100 trong mảng 
+	public static int [] array = {1,2,3,4,5,6,7,8,9,10};
+	public static int number=100;
+	public static int countingPrimeNumber(int[] array) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

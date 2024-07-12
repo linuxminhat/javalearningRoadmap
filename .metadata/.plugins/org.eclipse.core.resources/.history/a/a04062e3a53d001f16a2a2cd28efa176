@@ -1,0 +1,16 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b116 {
+	static Scanner inputN = new Scanner(System.in);
+	public static int  sumCal() {
+		int n=inputN.nextInt();
+		int sum=0;
+		for(int i=1;i<=n;i++) {
+			sum+=n;
+		}
+	}
+	return sum;
+
+}

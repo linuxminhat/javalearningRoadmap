@@ -1,0 +1,6 @@
+package chuong3;
+
+public class bai90_update {
+	public static int n;
+
+}

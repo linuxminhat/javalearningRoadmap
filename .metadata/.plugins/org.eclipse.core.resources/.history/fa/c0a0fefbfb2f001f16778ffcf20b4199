@@ -1,0 +1,23 @@
+package loops_finalexercise;
+
+public class getNumberofDigits{
+	int number;
+    public int getNumberDigits(int number) {
+    	this.number = number;
+        if(number>=0){
+            if(number==0){
+                return 1;
+            }else{
+            	//number = 245642
+                int i=1;
+                int temp = number%10;//temp = 45642 
+                do{
+                    ++i;//2 digit -> 3
+                    temp = temp%10;//temp = 5642 
+                }while(temp>10);
+                return i+1;//3 digit
+            }
+        }
+        return -1;
+    }
+}

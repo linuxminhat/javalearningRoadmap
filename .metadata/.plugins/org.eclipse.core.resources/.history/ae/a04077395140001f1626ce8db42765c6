@@ -1,0 +1,10 @@
+package recursion;
+
+public class hanoiTower {
+	public static void solveHanoiTower(int n, char nguon, char dich, char trunggian) {
+		if(n==1) {
+			System.out.println("Moving disk from" + nguon + "to" + dich);
+		}
+	}
+
+}

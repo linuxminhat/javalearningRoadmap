@@ -1,0 +1,13 @@
+package chuong1;
+
+public class b43 {
+	//Đếm số lượng chữ số của số n
+	public static int number;
+	public static int countingNumber(int number) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

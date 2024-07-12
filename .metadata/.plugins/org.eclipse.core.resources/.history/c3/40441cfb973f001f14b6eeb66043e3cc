@@ -1,0 +1,11 @@
+package arrays_hashing;
+
+public class leetcode387 {
+	public int firstUniqChar(String s) {
+		char[] array = s.toCharArray();
+		//create a count array 
+		int[] count = new int[123]
+		return -1;
+	}
+
+}

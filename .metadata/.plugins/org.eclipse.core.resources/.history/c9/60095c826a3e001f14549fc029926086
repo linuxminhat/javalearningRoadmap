@@ -1,0 +1,14 @@
+package chuong5;
+
+public class b123 {
+	//Tim vi tri ma gia tri vi tri do la gia tri nho nhat trong mang 1 chieu 
+	public static int[] array= {100,92,930,23,123};
+	public static int findingIndex_MaxElements(int[] array) {
+		int temp_maxValue = array[0];
+		int temp_maxIndex = 0;
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

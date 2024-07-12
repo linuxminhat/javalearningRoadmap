@@ -1,0 +1,10 @@
+package fizzBuzz;
+
+public class fizzBuzz {
+	public static int n;
+	public static void main(String[] args) {
+		for(int i=1;i<=n;i++) {
+		
+	}
+
+}

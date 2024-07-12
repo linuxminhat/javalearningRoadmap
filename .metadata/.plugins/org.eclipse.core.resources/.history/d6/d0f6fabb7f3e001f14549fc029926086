@@ -1,0 +1,25 @@
+package arrays_hashing;
+
+public class leetcode1295 {
+	//prob : find numbers with Even Number of Digits 
+	//Given an array nums of integers, return how many of them contain an even number of digits.
+	/*
+	 * Input: nums = [12,345,2,6,7896]
+	   Output: 2
+	 */
+	public static int findingNumbersWithEvenDigits(int[] array) {
+		int count=0;
+		for(int element : array ) {
+			if(checkingEvenNumberofDigits(element)==true) {
+				count++;
+			}
+		}
+		return count
+	}
+
+	private static boolean checkingEvenNumberofDigits(int element) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

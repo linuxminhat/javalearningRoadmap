@@ -1,0 +1,7 @@
+package interfaceExtendsInterface.interfaces;
+
+public class myTiger implements animal,tiger {
+	public void run() {
+		System.out.println("My tiger is running");
+	}
+}

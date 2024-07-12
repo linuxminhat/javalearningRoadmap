@@ -1,0 +1,15 @@
+package chuong1;
+
+public class b7 {
+	public static int n;
+	public static int sum=0;
+	public static int calSum(int n) {
+		for(int i =1;i<=n;i++) {
+			sum+=(i)/(i+1);
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

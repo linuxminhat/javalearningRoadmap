@@ -1,0 +1,19 @@
+package loops_finalexercise;
+
+public class LCM_testDivisorsOfNumber {
+	private int number1;
+	public static int findingLCM(int number1) {
+			int divisors = 1;
+			for(int i=1;i<=number1;i++) {//1 2 3 4 5 6 
+				for(divisors = 2;divisors<=number1;divisors++) {
+					divisors = number1%i;//1 2 3 	
+				}				
+			}
+			return divisors;
+		
+	}
+	public static void main(String[] args) {
+		findingLCM(6);
+	}
+
+}

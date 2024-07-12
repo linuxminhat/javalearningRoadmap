@@ -1,0 +1,10 @@
+package chuong1;
+
+public class b21 {
+	public static int number;
+	public static int sum=0;
+	public static void main(String[] args) {
+		
+	}
+
+}

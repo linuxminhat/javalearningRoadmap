@@ -1,0 +1,11 @@
+package obJectComposition_exercise;
+
+public class rectangle {
+	public int length;
+	public int width;
+	public String color;
+	public void setLength(int length) {
+		
+	}
+
+}

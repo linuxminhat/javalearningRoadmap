@@ -1,0 +1,22 @@
+package loops_finalexercise;
+
+public class LCM {
+	private int number1;
+	private int number2;
+	public int findingLCM(int number1, int number2) {
+		this.number1 = number1;
+		this.number2 = number2;
+		if(number1<number2) {
+			int i = 1;
+			while(i<=number) {
+				if((number%i==0)) {
+					i=i+1;
+				}
+				return i;
+			}
+		}
+		
+	}
+	
+
+}

@@ -1,0 +1,14 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b115_review {
+	public static int mathMark, literatureMark;
+	Scanner markInput = new Scanner(System.in);
+	public double markCalculating(int mathMark, int literatureMark) {
+		mathMark=markInput.nextDouble();
+		literatureMark=markInput.nextDouble();
+		
+	}
+
+}

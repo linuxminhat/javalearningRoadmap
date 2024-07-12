@@ -1,0 +1,11 @@
+package chuong3;
+
+public class b112 {
+//	Bài 112: Viết chương trình in ra hình chữ nhật có kích thước m x n
+	public static int m;
+	public static int n;
+	public static void main(String[] args) {
+		
+	}
+
+}

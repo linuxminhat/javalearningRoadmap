@@ -1,0 +1,6 @@
+package arrayAndString;
+
+public class nhapxuat {
+	Scanner scanInput = new Scanner(System.in)
+
+}

@@ -1,0 +1,13 @@
+package chuong1;
+
+public class b20 {
+	//liet ke tat ca cac uoc so 
+	public static int number;
+	public static int[] nameDivisors(int number) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

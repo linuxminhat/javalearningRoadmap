@@ -1,0 +1,7 @@
+package chuong5;
+
+public class b124 {
+	//Viết hàm kiểm tra trong mảng các số nguyên có tồn tại giá trị chẵn < 2004 
+	public static int[] array = {1000,223,124,229,1124,244};
+
+}

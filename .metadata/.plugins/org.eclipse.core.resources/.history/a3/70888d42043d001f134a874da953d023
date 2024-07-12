@@ -1,0 +1,13 @@
+package chuong1;
+
+public class b46 {
+	//đếm số lượng các chữ số lẻ của một số 
+	public static int number;
+	public static int countOddNumber(int number) {
+		int count=0;
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+package chuong4;
+
+public class b119 {
+	//Nhap vao mot so va liet ke tat ca so nguyen to nho hon n 
+	Scanner scanInput = new Scanner(System.in);
+
+}

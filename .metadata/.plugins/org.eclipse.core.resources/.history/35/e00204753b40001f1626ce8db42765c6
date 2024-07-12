@@ -1,0 +1,16 @@
+package recursion;
+
+public class implementingFactorialFunction {
+	public static int factorialFunction(int number) {
+		int factorial=1;
+		if(number==0) {
+			return 1;
+		}
+		if(number!=0) {
+			factorial*=number;
+			
+		}
+		return 0;
+	}
+
+}

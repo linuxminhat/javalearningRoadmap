@@ -1,0 +1,6 @@
+package recursion;
+
+public class recursionFactorial {
+	public static int factorial(int number)
+
+}

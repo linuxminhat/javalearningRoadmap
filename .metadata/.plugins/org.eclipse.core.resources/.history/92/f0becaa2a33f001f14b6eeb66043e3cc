@@ -1,0 +1,10 @@
+package arrays_hashing;
+
+public class leetcode1662_stringBuilder {
+  public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
+        StringBuilder sb1 = new StringBuilder()
+
+
+    }
+
+}

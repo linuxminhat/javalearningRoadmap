@@ -1,0 +1,17 @@
+package arrays_hashing;
+
+public class leetcode88_review {
+	public void merge(int[] nums1, int m, int[] nums2, int n) {
+		for(int nums2_element : nums2) {
+			insert(nums2_element,nums1,m);
+			m++;
+		}
+
+    }
+
+	private void insert(int nums2_element, int[] nums1, int m) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package arrays_hashing;
+
+public class reviewStringASCII {
+	public static void main(String[] args) {
+		Char ch = new Char ('D');
+		System.out.println(ch + "co ma ascii la " + (int)ch);
+	}
+
+}

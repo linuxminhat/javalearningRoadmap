@@ -1,0 +1,8 @@
+package objectComposition_Exercisee;
+
+public class bookRunner {
+	public static void main(String[] args) {
+		
+	}
+
+}

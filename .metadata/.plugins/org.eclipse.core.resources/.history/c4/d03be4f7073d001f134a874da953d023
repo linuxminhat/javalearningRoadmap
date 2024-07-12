@@ -1,0 +1,17 @@
+package chuong1;
+
+public class bai53 {
+	public static int number;
+	public static int returnMaxNumbofNumber(int number) {
+		int maxNumbofNumber = 1;
+		if(number<=9) {
+			return number;
+		}
+		//number là số có 2 chữ số trở lên 
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

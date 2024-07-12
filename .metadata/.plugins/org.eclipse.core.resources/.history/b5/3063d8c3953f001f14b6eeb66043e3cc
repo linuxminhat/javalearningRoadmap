@@ -1,0 +1,7 @@
+package arrays_hashing;
+
+public class test {
+	public static void main(String[] args) {
+		int[] arrays = {1,2,3,4,5,6}
+	}
+}

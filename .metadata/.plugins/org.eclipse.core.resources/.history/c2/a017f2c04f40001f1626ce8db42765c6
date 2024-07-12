@@ -1,0 +1,9 @@
+package recursion;
+
+public class recursion_tinhtong1denn {
+	public static int tinhTong1denN(int number) {
+		if(number==0)
+		return number+tinhTong1denN(number-1);
+	}
+
+}

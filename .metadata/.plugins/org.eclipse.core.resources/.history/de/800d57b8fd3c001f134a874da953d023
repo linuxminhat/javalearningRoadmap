@@ -1,0 +1,23 @@
+package chuong1;
+
+public class b30 {
+	public static int number;
+	public static void checkPerfectNumber(int number) {
+		int sum=0;
+		for(int numb=1;numb<number;numb++) {
+			if(number%numb==0) {
+				sum+=numb;
+			}
+			if(sum==number) {
+				System.out.println("So"+number+"la so hoan thien");
+			}else {
+				System.out.println("So"+number+"khong la so hoan thien");
+			}
+		}
+	}
+	public static void main(String[] args) {
+		checkPerfectNumber(28);
+		
+	}
+
+}

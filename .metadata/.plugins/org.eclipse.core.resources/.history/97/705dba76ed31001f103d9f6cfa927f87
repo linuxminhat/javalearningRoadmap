@@ -1,0 +1,10 @@
+package stringClass;
+
+public class printStringinOddLine {
+	public static void main(String[] args) {
+		String str = new String("This is my experience with string");
+		str.length();
+		System.out.println(str.length());
+	}
+
+}

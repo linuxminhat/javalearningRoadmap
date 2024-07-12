@@ -1,0 +1,19 @@
+package chuong3;
+
+public class b112 {
+//	Bài 112: Viết chương trình in ra hình chữ nhật có kích thước m x n
+	public static int m;//chieu dai
+	public static int n;//chieu rong
+	public static void printRectangle(int m,int n) {
+		for(int i=1;i<=m;i++) {
+			System.out.print("*");
+		}
+		for(int i=1;i<=n;i++) {
+			System.out.println("*");
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

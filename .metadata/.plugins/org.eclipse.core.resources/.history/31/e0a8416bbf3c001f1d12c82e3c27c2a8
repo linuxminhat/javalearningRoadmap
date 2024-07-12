@@ -1,0 +1,6 @@
+package exercise.abstractClass;
+
+ abstract class Animal {
+	public void bark();
+
+}

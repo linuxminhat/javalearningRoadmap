@@ -1,0 +1,22 @@
+package loops_finalexercise;
+
+public class getNumberOfDigits{
+	this.number = number;
+    public int getNumberDigits(int number) {
+        if(number>=0){
+            if(number==0){
+                return 1;
+            }else{
+                int i=0;
+                int temp = number%10;
+                do{
+                    ++i;
+                    temp = number%10;
+                }while(temp<number);
+                return i+1;
+            }
+        }
+        return -1;
+    }
+}
+}

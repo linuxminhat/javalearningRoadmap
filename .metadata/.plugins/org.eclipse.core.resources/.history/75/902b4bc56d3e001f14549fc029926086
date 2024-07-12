@@ -1,0 +1,17 @@
+package chuong5;
+
+public class b127 {
+	/*
+	 * Sắp xếp mảng 1 chiều theo thứ tự tăng dần 
+	 * Ý tưởng : tạo ra 2 giá trị là : previous_arrayValue và next_arrayValue
+	 * previous_index và next_index
+	 */
+	public static int[] array= {123,13,355,121,435,122,424,190};
+	public static int[] arrangeArray(int[] array) {
+		for(int i=0;i<array.length;i++) {
+			int previous_index=i;
+			int next_index=i+1;
+		}
+	}
+
+}

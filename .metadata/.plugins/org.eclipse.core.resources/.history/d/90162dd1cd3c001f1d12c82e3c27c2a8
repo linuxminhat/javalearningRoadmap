@@ -1,0 +1,10 @@
+package playWithList;
+
+import java.util.List;
+
+public class playList {
+	public static void main(String[] args) {
+		List<String> words = List.of("Dang Nhat Minh");
+		System.out.println(words.isEmpty());
+	}
+}

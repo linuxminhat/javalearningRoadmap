@@ -1,0 +1,14 @@
+package recursion;
+
+public class recursion_tinhtong1denn {
+	public static int tinhTong1denN(int number) {
+		if(number==0) {
+			return 0;
+		}
+		return number+tinhTong1denN(number-1);
+	}
+	public static void main(String[] args) {
+		tinhTong1denN(10);
+	}
+
+}

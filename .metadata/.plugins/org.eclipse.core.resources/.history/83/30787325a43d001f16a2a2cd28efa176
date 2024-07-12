@@ -1,0 +1,13 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b115 {
+	 
+	public static void main(String[] args) {
+	Scanner scanInput = new Scanner(System.in);	
+	 
+		
+	}
+
+}

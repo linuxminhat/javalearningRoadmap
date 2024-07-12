@@ -1,0 +1,18 @@
+package exercise;
+
+public class stringArray {
+	public static String[] daysofWeek = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
+	public String findmostnumberletters(String[] dayofweek) {
+		String maxnumberletters = daysofWeek[0];
+		this.daysofWeek = dayofweek;
+		for(int i=1;i<6;i++) {
+			if(day)
+		}
+		
+	}
+	public static void main(String[] args) {
+		 
+		
+	}
+
+}

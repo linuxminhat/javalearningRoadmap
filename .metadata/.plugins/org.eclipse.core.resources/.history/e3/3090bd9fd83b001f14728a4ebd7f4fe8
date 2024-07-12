@@ -1,0 +1,8 @@
+package InheritanceExercise;
+
+public class Employee extends Person {
+	public String titile; //manager or something
+	public String employer;
+	public double salary;
+
+}

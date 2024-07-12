@@ -1,0 +1,12 @@
+package playWithList;
+
+import java.util.List;
+
+public class playList_one {
+	public static void main(String[] args) {
+		List<String> studentName = List.of("Dang Nhat Minh","Nguyen Duc Chung"
+				,"Tran Le Minh","Nguyen Gia Bao");
+		studentName.add("Huynh Thi Thuc Vi");
+	}
+
+}

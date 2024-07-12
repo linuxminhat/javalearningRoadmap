@@ -1,0 +1,16 @@
+package arrayAndString;
+
+import java.util.Scanner;
+
+public class nhapxuat {
+	static Scanner scanInput = new Scanner(System.in);
+	static int row ;
+	static int col ;
+	public static void main(String[] args) {
+		System.out.println("Nhap vao phan tu cua mang : ");
+		int[][] array=new int[row][col];
+		
+		
+	}
+
+}

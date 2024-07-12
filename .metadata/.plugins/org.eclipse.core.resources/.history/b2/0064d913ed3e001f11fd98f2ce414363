@@ -1,0 +1,19 @@
+package arrays_hashing;
+
+public class leetcode1972_true {
+	public int maximumWealth(int[][] accounts) {
+		int r=0;
+		int maxWealthAccount=0;
+		int personalAccount=0;
+		while(r<accounts.length) {
+			for(int c=0;c<accounts[0].length;c++) {
+				personalAccount+=accounts[r][c];
+				if(personalAccount>maxWealthAccount) {
+					maxWealthAccount=personalAccount;
+				}
+			}
+		}
+        
+    }
+
+}

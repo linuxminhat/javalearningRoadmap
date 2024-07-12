@@ -1,0 +1,12 @@
+package arrays_hashing;
+
+public class leetcode1972_updating {
+	static int hang,cot;
+	static int[][] accounts = new int[hang][cot];
+	public int maximumWealth(int[][] accounts) {
+		
+	 
+		
+        
+    }
+}

@@ -1,0 +1,8 @@
+package obJectComposition_main;
+
+public class customerRunner {
+	public static void main(String[] args) {
+		customer testcase = new customer();
+	}
+
+}

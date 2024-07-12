@@ -1,0 +1,10 @@
+package stringClass;
+
+public class stringIsImmutable {
+	public static void main(String[] args) {
+		String str1 = new String("hello string1");
+		String str2 = str1.concat("hello concac");
+		
+	}
+
+}

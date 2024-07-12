@@ -1,0 +1,17 @@
+package playWithList;
+
+import java.util.List;
+
+public class playList_one {
+	public static void main(String[] args) {
+		List<String> studentName = List.of("Dang Nhat Minh","Nguyen Duc Chung"
+				,"Tran Le Minh","Nguyen Gia Bao");
+//		studentName.add("Huynh Thi Thuc Vi");
+//		studentName.add("Dang Nhat Minh");=> Immutable so we cant add
+		List<String> crushName = new ArrayList<>(List.of("Thao Linh","Thao Nguyen",
+				"Phuong Ha"));
+		crushName.add("Emma Stone");
+		
+	}
+
+}

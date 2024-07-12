@@ -1,0 +1,14 @@
+package objectComposition_updateExercise;
+
+public class square {
+	public int length;
+	public int width;
+	public square(int length,int width) {
+		this.length=length;
+		this.width=width;s
+	}
+	public int area() {
+		return length*width;
+	}
+
+}

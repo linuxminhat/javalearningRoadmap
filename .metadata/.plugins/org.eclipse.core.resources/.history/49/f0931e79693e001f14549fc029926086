@@ -1,0 +1,20 @@
+package chuong5;
+
+public class b122 {
+	//viet ham tim gia tri lon nhat trong mang 1 chieu cac so thuc 
+	public static int[] array = {1,2,3,4,5,6,7,8,9,10};
+	//finding max value 
+	public static int findingMaxValue(int[] array) {
+		int temp_maxValue = array[0];
+		for(int number : array) {
+			if(number>array[0]) {
+				temp_maxValue = number;
+			}
+		}
+		return temp_maxValue;
+	}
+	public static void main(String[] args) {
+		findingMaxValue(array);
+	}
+
+}

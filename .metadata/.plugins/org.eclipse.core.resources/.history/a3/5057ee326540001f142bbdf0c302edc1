@@ -1,0 +1,11 @@
+package recursion;
+
+public class methodImplementRecursion {
+	public static void findMax1(int[] array) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

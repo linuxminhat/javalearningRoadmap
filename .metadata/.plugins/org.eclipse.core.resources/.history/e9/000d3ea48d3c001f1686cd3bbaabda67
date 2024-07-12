@@ -1,0 +1,5 @@
+package interfaceExtendsInterface.interfaces;
+
+public class myTiger implements animal,tiger {
+
+}

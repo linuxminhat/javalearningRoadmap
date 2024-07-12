@@ -1,0 +1,13 @@
+package chuong1;
+
+public class b12 {
+	public static int x;
+	public static int n;
+	public static int powerSeries(int x; int n) {
+		int 
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

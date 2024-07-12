@@ -1,0 +1,6 @@
+package interfaceExtendsInterface.interfaces;
+
+public interface animal {
+ 
+
+}

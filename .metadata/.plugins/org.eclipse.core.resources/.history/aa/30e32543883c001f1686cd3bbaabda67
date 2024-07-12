@@ -1,0 +1,5 @@
+package interfacelearning.interfaces;
+
+public class ChessGame implements GamingConsoke {
+
+}

@@ -1,0 +1,10 @@
+package arrays_hashing;
+
+public class leetcode1972_updating {
+	public int maximumWealth(int[][] accounts) {
+		int row;
+		int col;
+		
+        
+    }
+}

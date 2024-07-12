@@ -1,0 +1,14 @@
+package super_keyword;
+class Vehicle {
+	Vehicle(String name){
+		this.name = nem;
+		
+	}
+}
+
+public class LearnSuper {
+	public static void main(String[] args) {
+		
+	}
+
+}

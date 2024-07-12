@@ -1,0 +1,16 @@
+package abstractclass;
+
+abstract class animal {
+	public void bark() {
+		System.out.println();
+	}
+
+
+}
+class Dog extends abstractAnimal{
+	public void bark() {
+		System.out.println("Dog is barking");
+	}
+}
+
+
