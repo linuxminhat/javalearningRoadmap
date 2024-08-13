@@ -7,6 +7,7 @@ import java.util.Comparator;
 import java.util.List;
 
 class DescendingFriendComparator implements Comparator<Friend>{
+	//Phuong thuc compare phai nam trong mot lop 
 	@Override
 	public int compare(Friend friend1, Friend friend2) {
 		return Integer.compare(friend1.getFriendID(),friend2.getFriendID());
@@ -25,6 +26,7 @@ public class FriendRunner {
 		System.out.println(myList.toString());
 		Collections.sort(myList,new DescendingFriendComparator());
 		System.out.println(myList);
+		
 		 
 	}
 
