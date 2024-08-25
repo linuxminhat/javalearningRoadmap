@@ -1,0 +1,36 @@
+package chuong1;
+
+public class b60 {
+	//Hãy kiểm tra các chữ số của số nguyên dương n có tăng dần từ trái sang phải hay không
+	public static int number;
+	public static double index;
+	public static double temp_numb=Math.pow(10, index);
+	public static boolean checkingGreater(int number) {
+		if(number<=9) {
+			return true;
+		}
+		if(number<=99) {
+			while(number>0) {
+				//98
+				int lastdigit=number%10;//8
+				int firstdigit=number/10;//9
+				if(firstdigit>lastdigit) {
+					return false;
+				}
+				
+			}
+			return true;
+		}
+		if(number>99) {
+			//123
+			for( int index;temp_numb<number;index++) {
+				
+			}
+			
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

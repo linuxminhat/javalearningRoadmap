@@ -1,0 +1,21 @@
+package chuong1;
+
+import java.math.BigDecimal;
+
+public class b3 {
+	//tinh tong tu 1/1 -> 1/n 
+	public static BigDecimal n;
+	public static BigDecimal sum;
+	public static BigDecimal calSum(BigDecimal n) {
+		for(int i=1;i<=n;i++) {
+			//
+			BigDecimal sum=sum.add(1/i);
+		}
+		return sum;
+	}
+	public static void main(String[] args) {
+		
+	}
+	
+
+}

@@ -1,0 +1,12 @@
+package chuong1;
+
+public class b43_completed {
+	public static int numb;
+	public static int countNumberOfNumb(int numb) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

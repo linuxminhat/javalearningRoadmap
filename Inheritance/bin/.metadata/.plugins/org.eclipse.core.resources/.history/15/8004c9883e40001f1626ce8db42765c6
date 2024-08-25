@@ -1,0 +1,12 @@
+package recursion;
+
+public class fibonacci {
+	public static void fibonacciFunction(int number) {
+		if(number>0) {
+			if(number<=2) {
+				return 1;
+			}
+		}
+	}
+
+}

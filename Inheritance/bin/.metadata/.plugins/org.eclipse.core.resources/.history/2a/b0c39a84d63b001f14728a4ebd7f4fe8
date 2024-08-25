@@ -1,0 +1,8 @@
+package overloading_indetails;
+
+public class VietComBank extends bankInterest {
+	public void getRateOfInterest(int interest){
+		this.interest=interest;
+	}
+
+}

@@ -1,0 +1,12 @@
+package recursion;
+
+public class methodImplementRecursion {
+	public static void findMax1(int[] array,int i ) {
+		if(i<array.length)
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

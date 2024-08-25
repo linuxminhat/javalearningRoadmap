@@ -1,0 +1,11 @@
+package chuong1;
+
+public class b44 {
+	public static int number;
+	public static int coutingSumOfNumb(int number) {
+		int sum=0;
+	}
+	public static void main(String[] args) {
+		
+	}
+}

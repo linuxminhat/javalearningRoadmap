@@ -1,0 +1,13 @@
+package arrays_hashing;
+
+public class leetcode387_solution {
+	//ASCII : 97 -> 122 
+	//leetcode -> l 
+	//phuong phap ap dung cho cac character 
+	public static int firstUniqChar(String s) {
+		char[] arrays = s.toCharArray();
+	
+		return -1; 
+	}
+
+}

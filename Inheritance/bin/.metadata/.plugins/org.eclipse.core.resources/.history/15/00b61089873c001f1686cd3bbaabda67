@@ -1,0 +1,5 @@
+package interfacelearning;
+
+public interface GamingConsole {
+
+}

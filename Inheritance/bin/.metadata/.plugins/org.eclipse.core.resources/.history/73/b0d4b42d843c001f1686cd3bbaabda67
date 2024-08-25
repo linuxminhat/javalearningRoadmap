@@ -1,0 +1,22 @@
+package abstractRecipe;
+
+public class recipe1 extends abstract_Recipe {
+/*
+ * 	public void execute() {
+		prepareRecipe();
+		cookingRecipe();
+		cleaningRecipe();
+	}
+	public void prepareRecipe() {
+//		System.out.println();
+	}
+	public void cookingRecipe() {
+		
+	}
+	public void cleaningRecipe() {
+		
+	}
+ */
+	public 
+
+}

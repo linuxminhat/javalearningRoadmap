@@ -1,0 +1,10 @@
+package recursion;
+
+public class hanoiTower_review2 {
+	public static void hanoiTower(int number, char A, char B, char C) {
+		if(number==1) {
+			
+		}
+	}
+
+}

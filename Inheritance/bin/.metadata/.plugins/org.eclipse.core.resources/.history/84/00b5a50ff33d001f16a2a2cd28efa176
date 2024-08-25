@@ -1,0 +1,13 @@
+package chuong4;
+
+public class b119_review {
+	//List all prime number that less than n 
+	//Idea : write two function -> 1/Checking Prime Number -> 2/Printing prime number 
+	public static int number;
+	public static boolean checkingPrimeNumber(int number) {
+		for(int i=2;i<number;i++) {
+			if(number%i==)
+		}
+	}
+
+}

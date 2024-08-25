@@ -1,0 +1,25 @@
+package arrays_hashing;
+
+import java.util.Arrays;
+
+public class leetcode242 {
+/*
+ * s=hello -> 0 1 2 3 4 
+ * t=olleh -> 0 1 2 3 4 
+ */
+	public boolean isAnagram(String s, String t) {
+		char[] charArray_S = s.toCharArray();
+		char[] charArray_T = t.toCharArray();
+		if(charArray_S.length != charArray_T.length) {
+			return false;
+		}else 
+	{
+		for(int i=0;i<charArray_S.length;i++) {
+			if(charArray_S[i]!=charArray_T[charArray_S.length-i-1]) {
+				return false;
+			}
+		}
+    }
+		return false;
+	}
+}

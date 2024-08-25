@@ -1,0 +1,11 @@
+package studentClassArrayList;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class student {
+	ArrayList<Integer> mark = new ArrayList<Integer>(Arrays.asList(100,88,93,20,44,99));
+	
+	
+
+}

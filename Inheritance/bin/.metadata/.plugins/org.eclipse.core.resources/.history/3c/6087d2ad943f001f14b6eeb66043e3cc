@@ -1,0 +1,14 @@
+package arrays_hashing;
+
+public class leetcode387 {
+	public int firstUniqChar(String s) {
+		int count =0;
+		/*
+		 * A->Z : 65->90
+		 * a->z : 97->122
+		 */
+		for(int i=0)
+        
+    }
+
+}

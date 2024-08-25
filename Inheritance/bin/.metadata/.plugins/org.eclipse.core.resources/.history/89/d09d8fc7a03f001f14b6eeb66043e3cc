@@ -1,0 +1,10 @@
+package arrays_hashing;
+
+public class leetcode387_review {
+	public int firstUniqChar(String s) {
+		char[] ch = s.toString();
+        
+        
+    }
+
+}

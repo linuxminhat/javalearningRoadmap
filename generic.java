@@ -1,4 +1,4 @@
-
-public class generic {
-
-}
+//
+//public class generic {
+//
+//}

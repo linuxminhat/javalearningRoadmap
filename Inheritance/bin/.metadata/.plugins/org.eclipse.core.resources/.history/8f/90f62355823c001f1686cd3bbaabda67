@@ -1,0 +1,8 @@
+package abstractclass;
+
+public class abstractAnimal {
+	public void bark() {
+		System.out.println();
+	}
+
+}

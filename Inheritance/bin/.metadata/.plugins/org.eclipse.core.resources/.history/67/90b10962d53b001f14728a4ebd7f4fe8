@@ -1,0 +1,9 @@
+package overloading_indetails;
+
+public class bankInterest {
+	public int interest;
+	public void getRateOfInterest(int interest){
+		
+	}
+
+}

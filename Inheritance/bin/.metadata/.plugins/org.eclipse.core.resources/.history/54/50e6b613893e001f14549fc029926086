@@ -1,0 +1,14 @@
+package arrays_hashing;
+
+public class leetcode88_updating {
+	public void merge(int[] nums1, int m, int[] nums2, int n) {
+        //Ý tưởng : Chèn các giá trị trong phần tử nums2 và nums1 
+		for(int ai : nums2) {
+			inserting(ai,nums1,m);//Chèn phần tử ai vào n1 với số phần tử là m 
+			m++;//Sau mỗi bước chèn thì số lượng phần tử sẽ tăng lên 1 đơn vị 
+		}
+    }
+	public static void main(String[] args) {
+		
+	}
+}

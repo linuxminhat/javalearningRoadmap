@@ -1,0 +1,14 @@
+package binarySearch;
+
+public class myBinarySearch {
+	//declare an array 
+	static int[] array = {1,4,9,12,19,25,31,46,50,57,52};
+	//implementing binary search function
+	public static int binarySearching(int[] array, int key) {
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,38 @@
+package arrays_hashing;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class leetcode27 {
+	Integer[] nums = {3,2,2,3};
+	ArrayList<Integer> arrayList = new ArrayList<>(Arrays.asList(nums));
+	public int removeElement(int[] nums, int val) {
+		int count=0;
+		for(int element : nums) {
+			if(element==val) {
+				removeElementInArray(element);
+				count++;
+			}
+		}
+		return count;
+    }
+	private void removeElementInArray(int element) {
+		/*
+		 * Công việc : Duyệt tất cả phần tử trong mảng, nếu cái nào trùng thì sẽ : 
+		 * - Xoá giá trị đó trong mảng 
+		 * - Độ dài của mảng sẽ trừ 1 
+		 */
+		ArrayList<Integer> newArray = new ArrayList<>(Arrays.asList(nums));
+		int array_length=nums.length;
+		for(int i=0;i<array_length;i++) {
+			if(nums[i]==element) {
+				newArray.remove(element);
+				newArray.size();
+				
+		}
+		
+	}
+ 
+	 
+
+}

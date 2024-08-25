@@ -1,0 +1,7 @@
+package chuong5;
+
+public class b123 {
+	//Tim vi tri ma gia tri vi tri do la gia tri nho nhat trong mang 1 chieu 
+	public static int[] array= {100,92,930,23,123};
+
+}

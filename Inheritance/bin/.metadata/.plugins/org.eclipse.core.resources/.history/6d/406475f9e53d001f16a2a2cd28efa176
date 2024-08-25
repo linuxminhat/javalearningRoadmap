@@ -1,0 +1,29 @@
+package chuong4;
+
+public class b119_updating {
+    // Print the numbers that are less than n
+    public static void printPrimeNumberlessthanN(int n) {
+        // 10 -> expected: 2 3 5 7
+        for(int i = 2; i < n; i++) {
+            if(isPrime(i)) {
+                System.out.println(i + " is a prime number");
+            }
+        }
+    }
+
+    public static boolean isPrime(int num) {
+        if(num <= 1) {
+            return false;
+        }
+        for(int i = 2; i <= Math.sqrt(num); i++) {
+            if(num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        printPrimeNumberlessthanN(100);
+    }
+}

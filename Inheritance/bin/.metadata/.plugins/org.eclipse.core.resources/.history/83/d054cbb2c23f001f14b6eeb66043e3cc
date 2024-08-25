@@ -1,0 +1,14 @@
+package sorting;
+
+public class selectionSorting_review2 {
+	//declare an array 
+	public static int[] array = {1212,2323,214,21412,2454112,5564,232,2121,503,3232,2124,2345,253};
+	//implemting function to viewing 
+	public static void viewingFunction(int number, int[] array) {
+		System.out.printf(int number);
+		for(int i=0;i<array.length;i++) {
+			System.out.printf("%d", array);
+		}
+	}
+
+}

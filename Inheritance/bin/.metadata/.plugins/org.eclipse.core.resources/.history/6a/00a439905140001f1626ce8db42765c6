@@ -1,0 +1,14 @@
+package recursion;
+
+public class hanoiTower {
+	public static void solveHanoiTower(int n, char nguon, char trunggian, char dich) {
+		if(n==1) {
+			System.out.println("Moving disk from" + nguon + "to" + dich);
+		}
+		solveHanoiTower(n-1, nguon, trunggian, dich);
+		System.out.println("Moving disk from " + n + "tucoc" + nguon + "sangcoc" + trunggian );
+		solveHanoiTower(n-1, trunggian,dich,nguon);
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package arrayAndString;
+
+public class array_2dimensions {
+	//Khai bao mang 2 chieu 
+	public static void main(String[] args) {
+		int[][] array;
+	}
+
+}

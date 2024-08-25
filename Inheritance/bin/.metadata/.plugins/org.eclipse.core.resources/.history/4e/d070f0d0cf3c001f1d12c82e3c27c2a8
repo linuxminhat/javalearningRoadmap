@@ -1,0 +1,11 @@
+package playWithList;
+
+import java.util.List;
+
+public class playList_three_vectortesting {
+	public static void main(String[] args) {
+		List<String> myWord = new Vector<>(List.of("My","Kind","Of","Woman"));
+		
+	}
+
+}

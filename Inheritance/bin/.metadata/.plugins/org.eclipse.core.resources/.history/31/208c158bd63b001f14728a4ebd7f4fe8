@@ -1,0 +1,8 @@
+package overloading_indetails;
+
+public class ACB extends bankInterest {
+	public void getRateOfInterest(int interest){
+		this.interest=interest;
+	}
+
+}

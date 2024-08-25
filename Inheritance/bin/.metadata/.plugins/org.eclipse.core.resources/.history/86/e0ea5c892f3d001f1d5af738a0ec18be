@@ -1,0 +1,23 @@
+package chuong3;
+
+import java.util.Arrays;
+
+public class b110 {
+	public static int m;//200
+	public static int n;//100
+	public static int p;//40
+	public static int[] plan= {m,n,p};
+	public static void main(String[] args) {
+		for(m=1;m<=200;m++) {
+			for(n=1;n<=100;n++) {
+				for(p=1;p<=40;p++) {
+					if((m*200+100*n+40*p)==200000) {
+						System.out.println(Arrays.toString(plan));
+					}
+				}
+			}
+		}
+	}
+	
+
+}

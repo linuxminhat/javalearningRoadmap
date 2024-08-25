@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="abstraction/src/abstractRecipe/|neetcode/src/|loops/src/loops_finalexercise/|Inheritance/src/|baicodethieunhi/src/chuong1/|advancedOOP/src/advancedOOP/|baicodethieunhi/src/chuong3/|arrayAndarrayList/src/|baicodethieunhi/src/chuong4/|oopAdvanced/src/|test/src/arrayList_longestWordFinder/|primitiveDataType/src/SimpleInterestCalculator/|Collection/|javaStringArrayExercise/src/|abstraction/src/interfacelearning/|referenceDataType/src/|referenceDataType/src/localDate_localTime_localDateTime/|test/src/|arrayAndarrayList/src/studentClassArrayList/|algorithms/src/|loops/src/|javaStringArrayExercise/src/javaStringArrayExercise/|interfacesAndabstractclass/src/|advancedOOP/src/|challenge_array/src/|interfaceextendsInterface/src/|baicodethieunhi/src/|Inheritance/src/overriding/|introduction to java oop/|fizzBuzz/src/|interfacelearning/src/|arrayAndarrayList/src/printDayofWeekwithMost/|loops_test/src/|Collection_part2/|primitiveDataType/src/|collections/src/|ifelse/src/|map/|neetcode/src/neetcode/|test/src/sortElementsOfArray/|javacore_thirdpart/src/|exercise_anagramChecker/|javaadvanced/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="abstraction/src/abstractRecipe"/>
+	<classpathentry kind="src" path="abstraction/src/interfacelearning"/>
+	<classpathentry excluding="advancedOOP/" kind="src" path="advancedOOP/src"/>
+	<classpathentry kind="src" path="advancedOOP/src/advancedOOP"/>
+	<classpathentry kind="src" path="algorithms/src"/>
+	<classpathentry excluding="studentClassArrayList/|printDayofWeekwithMost/" kind="src" path="arrayAndarrayList/src"/>
+	<classpathentry kind="src" path="arrayAndarrayList/src/printDayofWeekwithMost"/>
+	<classpathentry kind="src" path="arrayAndarrayList/src/studentClassArrayList"/>
+	<classpathentry excluding="chuong1/|chuong3/|chuong4/" kind="src" path="baicodethieunhi/src"/>
+	<classpathentry kind="src" path="baicodethieunhi/src/chuong1"/>
+	<classpathentry kind="src" path="baicodethieunhi/src/chuong3"/>
+	<classpathentry kind="src" path="baicodethieunhi/src/chuong4"/>
+	<classpathentry kind="src" path="challenge_array/src"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="Collection_part2"/>
+	<classpathentry kind="src" path="collections/src"/>
+	<classpathentry kind="src" path="exercise_anagramChecker"/>
+	<classpathentry kind="src" path="fizzBuzz/src"/>
+	<classpathentry kind="src" path="ifelse/src"/>
+	<classpathentry excluding="overriding/" kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="Inheritance/src/overriding"/>
+	<classpathentry kind="src" path="interfaceextendsInterface/src"/>
+	<classpathentry kind="src" path="interfacelearning/src"/>
+	<classpathentry kind="src" path="interfacesAndabstractclass/src"/>
+	<classpathentry kind="src" path="introduction to java oop"/>
+	<classpathentry kind="src" path="javaadvanced/src"/>
+	<classpathentry kind="src" path="javacore_thirdpart/src"/>
+	<classpathentry excluding="javaStringArrayExercise/" kind="src" path="javaStringArrayExercise/src"/>
+	<classpathentry kind="src" path="javaStringArrayExercise/src/javaStringArrayExercise"/>
+	<classpathentry kind="src" path="loops_test/src"/>
+	<classpathentry excluding="loops_finalexercise/" kind="src" path="loops/src"/>
+	<classpathentry kind="src" path="loops/src/loops_finalexercise"/>
+	<classpathentry kind="src" path="map"/>
+	<classpathentry excluding="neetcode/" kind="src" path="neetcode/src"/>
+	<classpathentry kind="src" path="neetcode/src/neetcode"/>
+	<classpathentry kind="src" path="oopAdvanced/src"/>
+	<classpathentry excluding="SimpleInterestCalculator/" kind="src" path="primitiveDataType/src"/>
+	<classpathentry kind="src" path="primitiveDataType/src/SimpleInterestCalculator"/>
+	<classpathentry excluding="localDate_localTime_localDateTime/" kind="src" path="referenceDataType/src"/>
+	<classpathentry kind="src" path="referenceDataType/src/localDate_localTime_localDateTime"/>
+	<classpathentry excluding="arrayList_longestWordFinder/|sortElementsOfArray/" kind="src" path="test/src"/>
+	<classpathentry kind="src" path="test/src/arrayList_longestWordFinder"/>
+	<classpathentry kind="src" path="test/src/sortElementsOfArray"/>
+	<classpathentry kind="output" path="Inheritance/bin"/>
+</classpath>

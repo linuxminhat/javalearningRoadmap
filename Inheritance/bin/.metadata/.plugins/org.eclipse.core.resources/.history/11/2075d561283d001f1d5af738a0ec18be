@@ -1,0 +1,16 @@
+package chuong3;
+
+public class b90 {
+//	public static int m;
+	public static int n;
+	public int findingm(int n) {
+		int sum=0;
+		for(int i=1;sum<n;i++) {
+			sum+=i;
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

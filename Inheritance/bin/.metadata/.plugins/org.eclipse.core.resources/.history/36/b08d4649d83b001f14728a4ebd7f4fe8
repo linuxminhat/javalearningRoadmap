@@ -1,0 +1,7 @@
+package InheritanceExercise;
+
+public class Student extends Person {
+	public String collegeName;
+	public String className;
+
+}

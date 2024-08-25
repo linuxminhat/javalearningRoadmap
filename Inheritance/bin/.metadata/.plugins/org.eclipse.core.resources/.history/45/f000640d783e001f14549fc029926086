@@ -1,0 +1,17 @@
+package arrayAndString;
+
+import java.util.Scanner;
+
+public class nhapvaxuat_mang2chieu {
+	Scanner inputScan = new Scanner(System.in);
+	//Nhập và xuất mảng 2 chiều 
+	//Ham nhap 
+	public static int[] importArray() {
+		System.out.println("Nhap vao so luong phan tu cua mang");
+		System.out.println("Nhap hang");
+		inputScan.nextInt();
+		
+		
+	}
+
+}

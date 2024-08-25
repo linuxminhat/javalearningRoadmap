@@ -1,0 +1,35 @@
+package arrays_hashing;
+
+public class leetcode88_updating {
+	public void merge(int[] nums1, int m, int[] nums2, int n) {
+        //Ý tưởng : Chèn các giá trị trong phần tử nums2 và nums1 
+		for(int ai : nums2) {
+			inserting(ai,nums1,m);//Chèn phần tử ai vào n1 với số phần tử là m 
+			m++;//Sau mỗi bước chèn thì số lượng phần tử sẽ tăng lên 1 đơn vị 
+		}
+    }
+	private static  void inserting(int x, int[] a, int m) {
+		boolean timDuocK=false;
+		//Xác định ak mà ak>x 
+		//Không có ak >6 thì chèn cuối cùng 
+		//Có thì dịch sang phải và sau đó gán 
+		 for(int k=0;k<m;k++) {
+			 if(a[k]>x) {
+				 timDuocK=true;
+				 for(int i =m-1;i>=k;i++) {
+					 a[i+1]=a[i];
+					 
+				 }
+				 a[k]=x;
+				 break;
+			 }
+		 }
+		 if(timDuocK=false) {
+			 a[m]=x;
+		 }
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+}

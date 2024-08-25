@@ -1,0 +1,15 @@
+package arrays_hashing;
+
+public class leetcode387_ownthinking {
+	public int firstUniqChar(String s) {
+		char[] array = s.toCharArray()
+		
+		
+		
+		
+		return 0;
+	        
+	}
+	
+
+}

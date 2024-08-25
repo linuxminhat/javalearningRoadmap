@@ -1,0 +1,15 @@
+package chuong1;
+
+import java.util.ArrayList;
+
+public class bai53 {
+	public static int number;
+	public static int returnNumberexistMost(int number) {
+		ArrayList<Integer> list = new ArrayList<>();
+		
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

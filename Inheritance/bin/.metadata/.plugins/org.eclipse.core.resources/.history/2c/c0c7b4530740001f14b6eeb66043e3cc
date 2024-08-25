@@ -1,0 +1,6 @@
+package sorting;
+
+public class selectionSorting_review {
+	int[] array = {1,2345,5,323,54,22,150,23,5,33,52};
+
+}

@@ -1,0 +1,13 @@
+package recursion;
+
+public class hanoiTower_updating {
+	public static void solveHanoiTower(int n,char nguon, char dich, char trunggian) {
+		if(n==1) {
+			System.out.println("Chuyen 1 dia tu " + nguon + "den" + dich);
+		}
+		solveHanoiTowe(n-1,nguon,trungggian,dich);
+		System.out.println();
+	}
+	
+
+}

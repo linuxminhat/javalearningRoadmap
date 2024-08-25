@@ -1,0 +1,12 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b116 {
+	static Scanner inputN = new Scanner(System.in);
+	public static int  sumCal() {
+		int n=intputN.NextInt()
+		
+	}
+
+}

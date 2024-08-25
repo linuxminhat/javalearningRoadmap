@@ -1,5 +1,5 @@
-package interfacelearning;
-
-public class gamingConsole {
-
-}
+//package interfacelearning;
+//
+//public class gamingConsole {
+//
+//}

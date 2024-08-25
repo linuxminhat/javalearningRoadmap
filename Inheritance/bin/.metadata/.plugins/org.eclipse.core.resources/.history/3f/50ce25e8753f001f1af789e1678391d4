@@ -1,0 +1,8 @@
+package neetcode;
+
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
+    	return 0;
+        
+    }
+}

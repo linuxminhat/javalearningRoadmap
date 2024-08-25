@@ -1,0 +1,19 @@
+package arrays_hashing;
+
+public class leetcode88_updating {
+	//Chèn phần tử n2 lần lượt vào phần tử n1 
+	/*
+	 * n1 = 1 2 3 / n2 = 2 5 6 
+	 * 1 2 2 3 
+	 * 1 2 2 3 5 
+	 * 1 2 2 3 5 6 
+	 */
+	/*
+	 * Ý tưởng : 
+	 * Ta sẽ dùng vòng lặp for duyệt toàn bộ phần tử trong n2 
+	 * Sau đó chúng ta sẽ tạo ra một hàm để chèn vào n1
+	 */
+	 public void merge(int[] n1, int m, int[] nums2, int n) {
+	        
+	 }
+}

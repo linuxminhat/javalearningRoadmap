@@ -1,0 +1,11 @@
+package recursion;
+
+public class printingArrayElement {
+	public static void printingElement(int[] array, int index) {
+		//bai toan co so 
+		if(index<0) {
+			return;
+		}
+	}
+
+}

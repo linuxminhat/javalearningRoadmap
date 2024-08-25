@@ -1,0 +1,7 @@
+package chuong1;
+
+public class b43 {
+	//Đếm số lượng chữ số của số n
+	public static int number;
+
+}

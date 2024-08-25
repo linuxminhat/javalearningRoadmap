@@ -1,0 +1,8 @@
+package arrays_hashing;
+
+public class reviewStringASCII {
+	public static void main(String[] args) {
+		char ch = new char('D')
+	}
+
+}

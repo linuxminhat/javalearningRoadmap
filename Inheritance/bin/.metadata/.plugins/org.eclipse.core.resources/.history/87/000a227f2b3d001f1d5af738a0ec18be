@@ -1,0 +1,19 @@
+package chuong3;
+
+public class bai90_update {
+	public static int n;
+	public static int findingm(int n) {
+		int i = 0;
+		int sum=0;
+		while(sum<n) {
+			for(i=1;i<n;i++) {
+				sum+=i;
+			}
+		}
+		return i-1;
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

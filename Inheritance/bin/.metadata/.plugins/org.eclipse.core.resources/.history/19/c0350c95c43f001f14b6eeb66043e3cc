@@ -1,0 +1,17 @@
+package sorting;
+
+public class selectionSort_review3 {
+	//implementing array 
+	public static int[] array = {111,442,56,3,234,790,2,75};
+	//implementing function to viewing 
+	public static void viewingFunction(int number, int[] array) {
+		System.out.printf(" %d " , number);
+		for(int i = 0; i<array.length ; i ++) {
+			System.out.printf(" %d ", array[i]);
+		}
+	}
+	public static void selectionSort(int[] array) {
+		for
+	}
+
+}

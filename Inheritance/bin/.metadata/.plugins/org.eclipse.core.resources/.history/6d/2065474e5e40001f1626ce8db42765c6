@@ -1,0 +1,13 @@
+package recursion;
+
+public class toiuuhoaDeQuy {
+	public static int fibonacci(int number) {
+		if(number<0) {
+			return -1;
+		}
+		if(number<=2) {
+			return 1
+		}
+	}
+
+}

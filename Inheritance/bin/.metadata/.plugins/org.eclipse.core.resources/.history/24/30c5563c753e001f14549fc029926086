@@ -1,0 +1,10 @@
+package arrayAndString;
+
+import java.util.Scanner;
+
+public class nhapxuat {
+	Scanner scanInput = new Scanner(System.in);
+	int row = scanInput.nextInt();
+	int col = scanInput.nextInt();
+
+}

@@ -1,0 +1,11 @@
+package objectComposition_Exercisee;
+
+public class bookRunner {
+	public static void main(String[] args) {
+		//public Author(String name,byte sex,String nationality,boolean alive) {
+		Author favAuthor = new Author("Nguyen Nhat Anh",(byte)0,"VietNam",true);
+		Author favAuthor2 = new Author("Victor Hugo",(byte)0,"France",false);
+		
+	}
+
+}

@@ -1,0 +1,6 @@
+package sorting;
+
+public class selectionSortReview {
+	public static int[] array = {232,45,32,1,434,43,6,3,23};
+
+}

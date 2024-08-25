@@ -1,0 +1,10 @@
+package chuong1;
+
+public class bai53 {
+	public static int number;
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

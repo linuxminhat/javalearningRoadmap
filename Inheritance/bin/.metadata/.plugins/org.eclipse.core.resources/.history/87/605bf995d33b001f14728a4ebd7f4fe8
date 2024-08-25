@@ -1,0 +1,15 @@
+package overriding;
+
+public class vehicle {
+	public void run() {
+		System.out.println("Vehicle is running");
+	}
+	
+
+}
+public class car extends vehicle{
+	public void run() {
+		System.out.println("Car is running");
+	}
+}
+

@@ -1,0 +1,15 @@
+package Inheritance;
+
+public class Person {
+	public String name;
+	public int age;
+	public Address address;
+	//declare getter and setter 
+	public String getName() {
+		return name;
+	}
+	public void setNamE(String name) {
+		this.name=name;
+	}
+
+}

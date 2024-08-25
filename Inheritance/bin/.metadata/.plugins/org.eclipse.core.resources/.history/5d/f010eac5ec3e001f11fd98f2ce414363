@@ -1,0 +1,8 @@
+package arrays_hashing;
+
+public class leetcode1972_true {
+	public int maximumWealth(int[][] accounts) {
+        
+    }
+
+}

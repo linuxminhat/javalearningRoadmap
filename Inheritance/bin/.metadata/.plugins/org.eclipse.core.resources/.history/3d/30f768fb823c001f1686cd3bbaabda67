@@ -1,0 +1,10 @@
+package abstractClass;
+
+class abstract Animal{
+	//declare abstract function
+	public void bark() {
+	}
+}
+public class abstractAnimal {
+
+}

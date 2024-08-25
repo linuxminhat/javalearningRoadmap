@@ -1,0 +1,15 @@
+package chuong1;
+
+public class b50 {
+	public static int number;
+	public static String reverseANumber(int number) {
+		String reverseANumber="";
+		while(number>0) {
+			int digits=number%10;
+			
+		}
+	}
+	public static void main(String[] args) {
+		
+	}
+}

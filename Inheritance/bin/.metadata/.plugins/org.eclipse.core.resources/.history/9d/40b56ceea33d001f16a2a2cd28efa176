@@ -1,0 +1,10 @@
+package chuong4;
+
+import java.util.Scanner;
+
+public class b115 {
+	public static void main(String[] args) {
+		Scanner mathInput = new Scanner(System.in)
+	}
+
+}

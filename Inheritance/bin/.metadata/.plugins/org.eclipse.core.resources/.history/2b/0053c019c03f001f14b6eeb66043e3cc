@@ -1,0 +1,9 @@
+package sorting;
+
+public class selectionSort {
+	public static void selectionSort(int[] array) {
+		int a_length=array.length
+	}
+	
+
+}

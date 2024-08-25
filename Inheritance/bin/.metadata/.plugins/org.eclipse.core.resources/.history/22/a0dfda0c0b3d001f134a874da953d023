@@ -1,0 +1,14 @@
+package chuong1;
+
+public class bai53_update {
+	//If a number = 1234556 -> return 5
+	public static int number;
+	public static int findingNumberExistMost(int number) {
+		int numberExistMost=1;
+		int old_count=1
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

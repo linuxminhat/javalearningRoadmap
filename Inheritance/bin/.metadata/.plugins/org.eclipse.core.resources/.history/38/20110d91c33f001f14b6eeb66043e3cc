@@ -1,0 +1,8 @@
+package sorting;
+
+public class selectionSort_review2 {
+	public static int[] array= {121,232,455,22,33,44902,2392,944};
+	//implementing function to viewing 
+	public static void viewFunction(int number,int[] array)
+
+}

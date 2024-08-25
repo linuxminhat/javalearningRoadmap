@@ -1,0 +1,8 @@
+package downcasting;
+abstract class Vehicle {
+	public void run();
+	
+}
+public class trueDowncasting {
+
+}

@@ -1,0 +1,7 @@
+package overloading_indetails;
+
+public class SHB extends bankInterest {
+	public void getRateOfInterest(int interest){
+		this.interest=interest;
+	}
+}

@@ -1,0 +1,10 @@
+package Inheritance;
+
+public class Address {
+	public int zipcode;
+	public String streetName;
+	public String districtName;
+	public String countryName;
+	public boolean capitalorNot;
+
+}

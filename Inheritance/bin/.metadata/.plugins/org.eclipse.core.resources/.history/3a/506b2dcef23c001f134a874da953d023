@@ -1,0 +1,7 @@
+package chuong1;
+
+public class b3 {
+	//tinh tong tu 1/1 -> 1/n 
+	BigDecimal n;
+
+}

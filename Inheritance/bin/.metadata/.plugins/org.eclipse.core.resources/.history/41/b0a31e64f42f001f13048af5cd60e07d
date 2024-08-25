@@ -1,0 +1,8 @@
+package loops_finalexercise;
+
+public class factorialCalculatorRunner {
+	public static void main(String[] args) {
+		factorialCalculator temp = new factorialCalculator(5);
+	}
+
+}

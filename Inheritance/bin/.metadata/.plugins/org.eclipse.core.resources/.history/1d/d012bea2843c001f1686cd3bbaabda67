@@ -1,0 +1,20 @@
+package abstractRecipe;
+
+public abstract class abstract_Recipe {
+	//cooking have 3 steps : prepare -> cooking -> cleaning 
+	public void execute() {
+		prepareRecipe();
+		cookingRecipe();
+		cleaningRecipe();
+	}
+	public void prepareRecipe() {
+//		System.out.println();
+	}
+	public void cookingRecipe() {
+		
+	}
+	public void cleaningRecipe() {
+		
+	}
+
+}

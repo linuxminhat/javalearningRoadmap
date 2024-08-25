@@ -1,0 +1,8 @@
+package arrays_hashing;
+
+public class leetcode27_truecase {
+	public int removeElement(int[] nums, int val) {
+        
+    }
+
+}

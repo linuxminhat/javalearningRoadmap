@@ -1,0 +1,23 @@
+package arrayAndString;
+
+import java.util.Arrays;
+
+public class array_2dimensions {
+	//Khai bao mang 2 chieu 
+	public static void main(String[] args) {
+		int[][] array= {
+				{1,2,3},
+				{4,5,6},
+				{7,8,9}
+		};
+//		System.out.println(Arrays.toString(array)); -> Arrays.toString không hoạt động mảng 2 chiều 
+		System.out.println(Arrays.deepToString(array));//Kho doc
+		for(int[] row:array) {
+			for(int elements:row) {
+				System.out.print(elements);
+			}
+			System.out.println();
+		}
+	}
+
+}

@@ -1,0 +1,8 @@
+package recursion;
+
+public class recursion_tinhtong1denn {
+	public static int tinhTong1denN(int number) {
+		
+	}
+
+}

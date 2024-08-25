@@ -1,0 +1,26 @@
+package chuong4;
+
+public class b119_review {
+	//List all prime number that less than n 
+	//Idea : write two function -> 1/Checking Prime Number -> 2/Printing prime number 
+	public static int number;
+	public static int n;
+	public static boolean checkingPrimeNumber(int number) {
+		for(int i=2;i<number;i++) {
+			if(number%i!=0) {
+				return true;//its a prime number
+			}
+		}
+		return false;
+	}
+	public static void primeNumberlessthan(int n) {
+		for(int i=2;i<n;i++) {
+			if(checkingPrimeNumber(i)==true) {
+				System.out.println(i);
+			}
+		}
+	}
+	public static void main(String[] args) {
+		primeNumberlessthan(10);
+	}
+}
