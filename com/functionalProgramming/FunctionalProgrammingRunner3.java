@@ -7,7 +7,7 @@ public class FunctionalProgrammingRunner3 {
 		list.stream().forEach(e -> System.out.println(e));
 	}
 	public static void main(String[] args) {
-		List<Integer> myList = List.of(1,2,3,4,5);
+		List<Integer> myList = List.of();
 		printingWithFP(myList);
 	}
 }
